@@ -30,6 +30,6 @@ stages{
                  sh "mvn test"
            }
        }
-
+   }
 	
 }
